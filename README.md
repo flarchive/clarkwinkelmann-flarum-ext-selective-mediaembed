@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-selective-mediaembed.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-selective-mediaembed) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-selective-mediaembed).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-selective-mediaembed/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-selective-mediaembed/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-08-12 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-selective-mediaembed/tree/archive/v1.0.0) |
+| `1.0.1` | 2023-10-14 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-selective-mediaembed/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-selective-mediaembed.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-selective-mediaembed.json)
 
